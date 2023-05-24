@@ -1,78 +1,76 @@
 {
-    "petty_cash": [
-        {
-            "id": "1",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "2",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "3",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "4",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "1",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "5",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "6",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-        {
-            "id": "7",
-            "Date": "22/10/2022",
-            "Amount": "$34",
-            "Type": "Cash in",
-            "Category": "Petty cash in",
-            "Notes": "Tips from Customer",
-            "Name": "Ria",
-        },
-    ]
+   "petty_cash":[
+      {
+         "id":"1",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"2",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"3",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"4",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"1",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"5",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"6",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      },
+      {
+         "id":"7",
+         "Date":"22/10/2022",
+         "Amount":"$34",
+         "Type":"Cash in",
+         "Category":"Petty cash in",
+         "Notes":"Tips from Customer",
+         "Name":"Ria"
+      }
+   ]
 }
-
-
