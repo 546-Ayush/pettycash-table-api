@@ -37,15 +37,6 @@
          "Name":"Ria"
       },
       {
-         "id":"1",
-         "Date":"22/10/2022",
-         "Amount":"$34",
-         "Type":"Cash in",
-         "Category":"Petty cash in",
-         "Notes":"Tips from Customer",
-         "Name":"Ria"
-      },
-      {
          "id":"5",
          "Date":"22/10/2022",
          "Amount":"$34",
